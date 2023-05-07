@@ -5,7 +5,6 @@
 [![Blog](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Wasserman97/)
 
 ![Wasserman97 GitHub stats](https://github-readme-stats.vercel.app/api?username=Wasserman97&show_icons=true&theme=dracula)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wasserman97)](https://github.com/Wasserman97/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
