@@ -6,6 +6,8 @@
 
 ![Wasserman97 GitHub stats](https://github-readme-stats.vercel.app/api?username=Wasserman97&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wasserman97)](https://github.com/Wasserman97/github-readme-stats)
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br>
@@ -17,3 +19,6 @@
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 
 </div>
+<br>
+
+Programar é mais do que uma habilidade que estou aprendendo, é uma forma de expressar minha criatividade e contribuir para um mundo melhor, buscando sempre desenvolver soluções tecnológicas que possam impactar positivamente a vida das pessoas.
