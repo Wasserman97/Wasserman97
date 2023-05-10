@@ -20,4 +20,4 @@
 </div>
 <br>
 
-Programar é mais do que uma habilidade que estou aprendendo, é uma forma de expressar minha criatividade e contribuir para um mundo melhor, buscando sempre desenvolver soluções tecnológicas que possam impactar positivamente a vida das pessoas..
+Programar é mais do que uma habilidade que estou aprendendo, é uma forma de expressar minha criatividade e contribuir para um mundo melhor, buscando sempre desenvolver soluções tecnológicas que possam impactar positivamente a vida das pessoas...
